@@ -7,4 +7,5 @@ A fun interactive game built using javascript HTML and CSS
 The aim of the game is quite simple. you are Tasked GUESS the right number.
 
 lets see how you do!
-![plot](/home/wardhere-adan/personal-projects/guess-my-number/guess-my-number.png)
+
+![Guess](guess-my-number.png?raw=true "Guess my number")
